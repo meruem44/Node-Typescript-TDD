@@ -1,0 +1,7 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "leandro moraes <leandromoraes12345@outlook.com>",
+  "license": "MIT"
+}
